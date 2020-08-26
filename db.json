@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"first_name":"Ass, asiatic wild","category":"Turquoise"},
+{"id":2,"first_name":"Blue wildebeest","category":"Red"},
+{"id":3,"first_name":"Jackal, golden","category":"Crimson"},
+{"id":4,"first_name":"Hartebeest, red","category":"Blue"},
+{"id":5,"first_name":"Squirrel, eastern fox","category":"Purple"},
+{"id":6,"first_name":"Common boubou shrike","category":"Aquamarine"},
+{"id":7,"first_name":"Black swan","category":"Pink"},
+{"id":8,"first_name":"Nighthawk, common","category":"Teal"},
+{"id":9,"first_name":"Grenadier, purple","category":"Puce"},
+{"id":10,"first_name":"Blesbok","category":"Violet"},
+{"id":11,"first_name":"Eurasian badger","category":"Green"},
+{"id":12,"first_name":"Snake, carpet","category":"Red"},
+{"id":13,"first_name":"Black-capped chickadee","category":"Yellow"},
+{"id":14,"first_name":"Python (unidentified)","category":"Goldenrod"},
+{"id":15,"first_name":"Great cormorant","category":"Fuscia"},
+{"id":16,"first_name":"Roe deer","category":"Aquamarine"},
+{"id":17,"first_name":"Black-backed magpie","category":"Purple"},
+{"id":18,"first_name":"Japanese macaque","category":"Red"},
+{"id":19,"first_name":"Screamer, crested","category":"Yellow"},
+{"id":20,"first_name":"Kongoni","category":"Maroon"}
+]
+}
